@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+P001,Shampoo,Personal Care,20.0
+P002,Toothpaste,Personal Care,15.0
+P003,Coffee,Beverage,25.0
+P004,Cereal,Food,25.0
+P005,Soap,Personal Care,30.0
+P006,Perfume,Luxury,60.0
+P007,Headphones,Electronics,50.0
+P008,Notebook,Stationery,10.0
+P009,Pen,Stationery,5.0
+P0010,Juice,Beverage,12.0
